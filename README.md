@@ -2,7 +2,7 @@
 
 ## Description
 
-Test your reflexes in which objects spawn in a 4x4 grid box randomly, and you must click on them to destroy them before the timer runs out. 
+Test your reflexes in which objects spawn in a 4x4 grid box randomly, and you must click on them to destroy them before the 60-second timer runs out. 
 
 ## Brief Summary
 
