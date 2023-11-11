@@ -1,4 +1,4 @@
-# Whack A Food (Unity 3D)
+# Whack A Food Game (Unity 3D)
 
 ## Description
 
